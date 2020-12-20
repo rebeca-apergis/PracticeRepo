@@ -11,4 +11,6 @@ touch name.type = adds a file of a certain type to the repository.
 git checkout -b branchname = creates a new branch
 git branch = lists all the branches
 git checkout <commit-hash> = pulls your files to the state of the selected commit
+git merge = merges changes from other branches into your main.
 
+This is a change from branch2.
