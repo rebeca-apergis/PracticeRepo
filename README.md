@@ -15,3 +15,6 @@ git merge = merges changes from other branches into your main.
 git remote add origin URL = sets a new remote repository for you to push things to.
 git remote -v = checks out the new remote url.
 git push origin master = pushes the changes from master to your repo on github.
+git clone URL = downloads a whole remote directory to your computer.
+cd Foldername = moves you forward into the folder of choice.
+cd C:\Users\Rebeca\ETC = moves you backwards into the named folder of choice.
