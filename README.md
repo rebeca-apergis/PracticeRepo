@@ -12,5 +12,6 @@ git checkout -b branchname = creates a new branch
 git branch = lists all the branches
 git checkout <commit-hash> = pulls your files to the state of the selected commit
 git merge = merges changes from other branches into your main.
-
-This is a change from branch2.
+git remote add origin URL = sets a new remote repository for you to push things to.
+git remote -v = checks out the new remote url.
+git push origin master = pushes the changes from master to your repo on github.
