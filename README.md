@@ -18,3 +18,4 @@ git push origin master = pushes the changes from master to your repo on github.
 git clone URL = downloads a whole remote directory to your computer.
 cd Foldername = moves you forward into the folder of choice.
 cd C:\Users\Rebeca\ETC = moves you backwards into the named folder of choice.
+eval `ssh-agent -s` = kicks off SSH agent.
