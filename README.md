@@ -11,4 +11,4 @@ touch name.type = adds a file of a certain type to the repository.
 git checkout -b branchname = creates a new branch
 git branch = lists all the branches
 git checkout <commit-hash> = pulls your files to the state of the selected commit
-
+eval `ssh-agent -s` = kicks out the SSH connection
